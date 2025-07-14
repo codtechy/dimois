@@ -434,7 +434,7 @@ header.main-header{
 	border-bottom: 1px solid var(--dark-divider-color);
 	position: relative;
 	z-index: 100;
-	margin: 40px 40px 0px 40px;
+	margin: 20px 40px 0px 40px;
 }
 
 header.main-header .header-sticky{
@@ -462,7 +462,7 @@ header.main-header .header-sticky.active{
 }
 
 .navbar{
-	padding: 20px 80px;
+	padding: 23px 80px;
 	align-items: center;
 }
 
@@ -559,7 +559,7 @@ header.main-header .header-sticky.active{
 }
 
 .header-btn .btn-default{
-	padding: 20px 30px;
+	padding: 6px 30px;
 }
 
 .header-btn .btn-default:hover{
@@ -624,7 +624,7 @@ header.main-header .header-sticky.active{
 	position: absolute;
     width: 100%;
 	padding: 0;
-	background: var(--accent-color);
+	background: white;
 }
 
 .slicknav_menu ul{
